@@ -1,4 +1,3 @@
-//service is for making an http req and sending the data back and setting data in local storage
 import axios from 'axios'
 
 const API_URL = 'http://localhost:5000/api/users/'
